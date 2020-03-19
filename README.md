@@ -4,20 +4,25 @@
 voucher go food dan Go ride
 
 kode perintah
-pkg update
 
-pkg upgrade
+apt update && apt upgrade ( enter)
 
-pkg install php
+pkg update ( enter)
 
-pkg install curl
+pkg upgrade ( enter)
 
-pkg install git
+pkg install php ( enter)
+
+pkg install curl ( enter)
+
+pkg install git ( enter)
 
 setelah itu anda wajib memasukan kode perintah untuk mendownload script auto claim voucher gojek
-git clone https://github.com/aulia182/barker
+
+git clone https://github.com/aulia182/barker ( enter)
 
 lalu masukan kode perintah untuk menjalankan script , kode ini untuk daftar dan claim voucher go food gojek
-cd gofood
 
-php tembak.php
+cd barker ( enter)
+
+php tembak.php ( enter)
